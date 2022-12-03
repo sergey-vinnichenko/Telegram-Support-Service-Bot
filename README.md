@@ -8,7 +8,9 @@ This bot is written with Python 3.11.0. I hope this program will work correctly 
 1. Create your telegram bot using [Botfather](https://t.me/BotFather) and copy your new telegram bot token.
 2. Download my file and put your new telegram bot token here:
 
-        API_TOKEN = ''  # Put your telegram bot token here
+```python
+API_TOKEN = ''  # Put your telegram bot token here
+```
 
 3. Instal Aiorgam on your computer. Here is the link to an origimnal [Installation Guide](https://docs.aiogram.dev/en/latest/install.html).
 
@@ -31,7 +33,9 @@ This bot is written with Python 3.11.0. I hope this program will work correctly 
 
 8. Put your chat id into bot`s code:
 
-        admin_chat_id = ''  # Put your support team chat id here
+```python
+admin_chat_id = ''  # Put your support team chat id here
+```
         
 8. Send your telegram bot link to any telegram user. He should start bot by typing `/start` message.
 
