@@ -74,10 +74,10 @@ Support Team sends a sticher in responce.
 ## Limitations ##
 
 This bot cannot work with other data types:
-- audio messages
-- audio files
-- video messages
-- video files
-- photos
-- other files
-- geolocation
+- Audio messages
+- Audio files
+- Video messages
+- Video files
+- Photos
+- Other files
+- Geolocation
