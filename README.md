@@ -26,7 +26,10 @@ This bot is written with Python 3.11.0. I hope this program will work correctly 
 ![](https://drive.google.com/uc?export=download&id=1UTzM_98dCq4ckqxbuURSZqiHpZrITvAw)
 
 6. Get you chat id by typing this message: `/chatid`. And bot will send you chat id. It sould start from '-'.
-7. Put your chat id into bot`s code:
+
+![](https://drive.google.com/uc?export=download&id=1nRexDfeDYLCBmGUg4tRHw2kmqZrFjJfb)
+
+8. Put your chat id into bot`s code:
 
         admin_chat_id = ''  # Put your support team chat id here
         
