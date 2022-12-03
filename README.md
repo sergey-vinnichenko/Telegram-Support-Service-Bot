@@ -37,11 +37,23 @@ This bot is written with Python 3.11.0. I hope this program will work correctly 
 
 ## The Main Function ##
 
-The main task of this bot is to organize the messaging of the user on the one hand and the whole group of operators on the other hand. When a user sends a message to the bot, that message is forwarded to the group. And all group members can see this message. Any member of the group can reply to this message and this message will be sent to the user as a bot response. For the user it will look just like a messaging with a bot, while on the other side there may be a whole team that responds to his messages.
+The main function of this bot is to organize messaging of users on the one hand and the whole group of operators on the other hand. When a user sends a message to the bot, that message is forwarded to the support team group. And all group members can see this message. Any member of the group can reply to this message and this message will be sent to the user as a bot response. For the user it will look just like a messaging with a bot, while on the other end there may be the whole team that responds to his messages.
 
 User sends his message to the bot.
 
 ![](https://drive.google.com/uc?export=download&id=1TDcL4T4g9CyPntxKYeaFIeLNMkyMtqSN)
+
+The bot forwards a user's message to the support team chat.
+
+![](https://drive.google.com/uc?export=download&id=1dJ64YniIZHSOBUk4l9lLXvSR5Sfx5BSw)
+
+Support team member writes a response.
+
+![](https://drive.google.com/uc?export=download&id=1u2ay8NWA9Ztg4wzpKKirtXO3nM1WYaHt)
+
+The bot forwards message to the user.
+
+![](https://drive.google.com/uc?export=download&id=1dJ3R-8ukCBdk6qM7o5zKFKha7DgKeO7z)
 
 You can even simulate the work of artificial intelligence. If the user does not know that the bot is forwarding messages to the group and there are real people responding to him, he may think that he is communicating with the program.
 
