@@ -23,7 +23,7 @@ This bot is written with Python 3.11.0. I hope this program will work correctly 
 4. Create a new group telegram chat. It will be your support team chat. And add your telegram bot in this chat wia Add Member button.
 5. Run the bot in your chat by typing this message: `/start`. And you will get the bot hello message.
 
-![](https://drive.google.com/uc?export=download&id=17_KANVI2n4mOVePXrgnu99n-1KZijMht)
+![](https://drive.google.com/uc?export=download&id=1UTzM_98dCq4ckqxbuURSZqiHpZrITvAw)
 
 6. Get you chat id by typing this message: `/chatid`. And bot will send you chat id. It sould start from '-'.
 7. Put your chat id into bot`s code:
