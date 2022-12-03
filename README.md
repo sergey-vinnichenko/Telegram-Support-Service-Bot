@@ -39,9 +39,14 @@ This bot is written with Python 3.11.0. I hope this program will work correctly 
 
 The main task of this bot is to organize the messaging of the user on the one hand and the whole group of operators on the other hand. When a user sends a message to the bot, that message is forwarded to the group. And all group members can see this message. Any member of the group can reply to this message and this message will be sent to the user as a bot response. For the user it will look just like a messaging with a bot, while on the other side there may be a whole team that responds to his messages.
 
+User sends his message to the bot.
+
+![](https://drive.google.com/uc?export=download&id=1TDcL4T4g9CyPntxKYeaFIeLNMkyMtqSN)
+
 You can even simulate the work of artificial intelligence. If the user does not know that the bot is forwarding messages to the group and there are real people responding to him, he may think that he is communicating with the program.
 
 The user can also send emojis and stickers. And chat admins can send emojis and stickers back to him.
+
 
 ## Limitations ##
 
