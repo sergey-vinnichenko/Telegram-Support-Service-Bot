@@ -69,6 +69,8 @@ The bot forwards a user's sticker to the support team chat.
 
 Support Team sends a sticher in responce.
 
+![](https://drive.google.com/uc?export=download&id=1H1NJ_Z4Cd46HiQk0o7q3E22D2tkK8uon)
+
 
 ## Limitations ##
 
