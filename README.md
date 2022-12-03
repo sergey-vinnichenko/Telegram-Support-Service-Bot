@@ -14,13 +14,22 @@ API_TOKEN = ''  # Put your telegram bot token here
 
 3. Instal Aiorgam on your computer. Here is the link to an origimnal [Installation Guide](https://docs.aiogram.dev/en/latest/install.html).
 
-        pip install aiogram
+```python
+pip install aiogram
+```
 
 5. Run bot wia your terminal:
 
-        python path/index.py
-        or
-        python3 path/index.py
+
+```python
+python path/index.py
+```
+
+or
+
+```python
+python3 path/index.py
+```
         
 4. Create a new group telegram chat. It will be your support team chat. And add your telegram bot in this chat wia Add Member button.
 5. Run the bot in your chat by typing this message: `/start`. And you will get the bot hello message.
