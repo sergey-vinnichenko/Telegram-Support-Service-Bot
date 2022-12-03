@@ -59,6 +59,17 @@ You can even simulate the work of artificial intelligence. If the user does not 
 
 The user can also send emojis and stickers. And chat admins can send emojis and stickers back to him.
 
+The user sends sticker.
+
+![](https://drive.google.com/uc?export=download&id=15r5mRvXModNw8adbrHu5RV5jKtkJx34n)
+
+The bot forwards a user's sticker to the support team chat.
+
+![](https://drive.google.com/uc?export=download&id=1AOn95h6ogF__cqrDrnQ91TcuYoLhin5L)
+
+Support Team sends a sticher in responce.
+
+![](https://drive.google.com/uc?export=download&id=1H1NJ_Z4Cd46HiQk0o7q3E22D2tkK8uon)
 
 ## Limitations ##
 
