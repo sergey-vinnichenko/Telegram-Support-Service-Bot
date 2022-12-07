@@ -86,7 +86,7 @@ Support Team sends a sticher in responce.
 
 ## Limitations ##
 
-This bot cannot work with other data types:
+This bot cannot work with other types of messages:
 - Audio messages
 - Audio files
 - Video messages
